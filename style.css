@@ -1,0 +1,106 @@
+.back{
+    background-color: darkgray;
+    width: 70%;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+#back1{
+    color: brown;
+}
+.john{
+
+font-family: 'Noto Serif', serif;
+margin: 50px;
+padding: 40px;
+font-size: xx-large;
+
+}
+#image1{
+    width: 60%;
+    float: right;
+    margin-bottom: right;
+}
+.imag{
+    width: 30%; padding: 50px;
+    display: flex;
+    margin: 30px;
+}
+.phot{
+padding: 50px;
+display: flex;
+margin: 30px;
+justify-content: space-between;
+
+}
+.price{
+    display: flex;
+    color: black;
+    justify-content: space-between;
+  padding-bottom: 80px;
+
+  
+}
+.viat{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+   
+}
+button{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    color: beige;
+    background-color: darkgoldenrod;
+    font-size: large;
+}
+#butn{
+     padding:20px 70px 20px 70px;
+     font-size: large;
+}
+.foot{
+    display: flex;
+    gap: 10%;
+    margin: 30px;
+    padding: 30px;
+    align-items: center;
+    background: #212529;
+    color: azure;
+    
+
+}
+#off{
+    font-family: 'Noto Serif', serif;
+    font-size: xx-large;
+    color: brown ;
+} 
+#pot{
+    font-family: 'Noto Serif', serif;
+    font-size: xx-large;
+    color: brown ;
+
+}
+#ig{
+    width: 8%;
+}
+#phon{
+    width: 9%;
+    /* float: bottom; */
+   
+}
+#thank{
+    font-size: x-large;
+    font-family: 'Noto Serif', serif;
+     color: brown;
+    padding: 30px;
+  text-align: center;
+}
+#smile{
+    width: 10%;
+ 
+}
